@@ -9,3 +9,6 @@ This CovidTrack app shows the current status of each country's confirmed,deaths 
    Then you can see in http://locahost:3000 the app is running.
 
 ![alt text](./src/components/images/covid.png)
+![alt text](./src/components/images/Screenshot_1.png)
+![alt text](./src/components/images/Screenshot_2.png)
+![alt text](./src/components/images/Screenshot_3.png)
